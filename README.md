@@ -6,7 +6,7 @@ Exercitii pentru laboratorul de criptografie rezolvate in RUST
 
 Rust este un limbaj de programare multi-paradigm, iar ca trasatura principala este importanta pentru siguranta ( evitarea coruperii memoriei, race condition). Sintaxa limbajului este similara cu `C\C++` si cu influente din limbaje precum `Haskell\OCaml\C#`. [Mai multe detalii](<https://ro.wikipedia.org/wiki/Rust_(limbaj_de_programare)>)
 
-Limbajul a fost create Moziile Research cu scopul de a crea un motor de browser mai performant - [Servo](https://servo.org/). Sintaxa incarcata prezinta un obstacol atunci cand cineva incearca sa invete aceste limbaj de programarea, dar aceasta aduce si un foarte mare beneficiu - programatorul poate sa-si exprime mai bine intentiile asupra compilatorului, fiecare decizie find explicita. De asemenea, compilatorul se asigura ca programatorul a folosit bunele practici pentru dezvoltare, el fiind capabil sa detecteze posibile erori inca din timpul compilarii.
+Limbajul a fost create Moziile Research cu scopul de a crea un motor de browser mai performant - [Servo](https://servo.org/). Sintaxa incarcata prezinta un obstacol atunci cand cineva incearca sa invete acest limbaj de programarea, dar aceasta aduce si un foarte mare beneficiu - programatorul poate sa-si exprime mai bine intentiile asupra compilatorului, fiecare decizie find explicita. De asemenea, compilatorul se asigura ca programatorul a folosit bunele practici pentru dezvoltare, el fiind capabil sa detecteze posibile erori inca din timpul compilarii.
 
 Principalele arii de dezvoltare in care este folosit Rust sunt: unelte de tip CLI
 , server, microprocesoare, aplicatii web.
